@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/andrejanesic/NFT-Collection.Client.git
 [submodule "contract"]
 	path = contract
-	url = ./contract
+	url = https://github.com/andrejanesic/NFT-Collection.Contract.git
